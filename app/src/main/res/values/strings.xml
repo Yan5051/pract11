@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab11Json</string>
+    <string name="TaskList">ДОБРО ПОЖАЛОВАТЬ</string>
+    <string name="TaskListMain">Список дел</string>
+    <string name="nameTask">Имя задачи</string>
+    <string name="textTask">Описание задачи</string>
+    <string name="btnTask">Добавить задачу</string>
+    <string name="myTask">Мои задачи</string>
+</resources>
